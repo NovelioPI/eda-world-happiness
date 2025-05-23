@@ -8,7 +8,7 @@ This project performs Exploratory Data Analysis (EDA) on the World Happiness Rep
   - Happiness Score
   - GDP per Capita
   - Social Support
-  - Life Expectancy
+  - Healthy Life Expectancy
   - Freedom, Trust, Generosity
 
 ## 🧪 Goals
@@ -23,11 +23,6 @@ This project performs Exploratory Data Analysis (EDA) on the World Happiness Rep
 - Jupyter Notebook
 
 ## 📈 Highlights
-- GDP and social support have strong positive correlations with happiness
+- Social support, GDP, and Healthy have strong positive correlations with happiness
 - Countries with high corruption perception tend to score lower in happiness
-- Visual insights from scatter plots, boxplots, and heatmaps
-
-## 🚀 Future Work
-- Add clustering (e.g., KMeans) to find country groups
-- Perform regression to predict happiness scores
-- Compare across years if time-series data is included
+- Visual insights from scatter heatmaps, plots, and boxplots
